@@ -1,4 +1,4 @@
-"""Vlasov-Poisson phase-space density: Tucker and TT over R[Z_32 x Z_32] (paper Figure 6).
+"""Vlasov-Poisson data: Tucker and TT over R[Z_32 x Z_32] (paper Section 6.2, Figure 6).
 
 Data (data/simulate_vlasov.py): f(x, y, v_x, v_y, t), 32 x 32 x 48 x 48 x 32, nonlinear
 Landau damping on a box that is periodic in x and in y.  The Vlasov-Poisson flow commutes
@@ -17,11 +17,11 @@ well below the tolerance, so that every curve crosses relative error 0.5):
     matrix SVD of the unfolding (x, y) x (v_x, v_y, t), at the smallest rank meeting each tolerance
 TT takes the modes in order: (v_x, v_y, t) over K, (x, y, v_x, v_y, t) over R.
 
-Output: results/exp3_format.csv
+Output: results/fig6_vlasov_poisson.csv
 Usage:
     python data/simulate_vlasov.py
-    python experiments/exp3_vlasov.py            # about 20 minutes on an 8 GB laptop
-    python experiments/exp3_vlasov.py --quick    # every fourth tolerance, for a first look
+    python experiments/vlasov_poisson.py         # about 20 minutes on an 8 GB laptop
+    python experiments/vlasov_poisson.py --quick  # every fourth tolerance, for a first look
 """
 from __future__ import annotations
 
@@ -87,7 +87,7 @@ def format_sweep(X, Kxy, R, out, eps_grid=FORMAT_EPS):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--data", default=str(ROOT / "data" / "processed" / "vlasov.npz"))
-    ap.add_argument("--out", default=str(ROOT / "results" / "exp3_format.csv"))
+    ap.add_argument("--out", default=str(ROOT / "results" / "fig6_vlasov_poisson.csv"))
     ap.add_argument("--quick", action="store_true", help="every fourth tolerance of the grid")
     args = ap.parse_args()
 

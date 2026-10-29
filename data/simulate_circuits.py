@@ -1,4 +1,4 @@
-"""Unitaries of random three-qubit circuits split into two halves (experiment 10).
+"""Unitaries of random three-qubit circuits split into two halves (paper Section 6.1).
 
 Circuits.  Three qubits, so every circuit acts by a unitary in M_8(C).  A half-circuit is a
 brickwork of four two-qubit gates, on qubits (0, 1), (1, 2), (0, 1), (1, 2), each gate drawn
@@ -27,7 +27,7 @@ E[U_second(i)] E[U_first(j)] and have rank exactly 1 over K.
 The gates are generic (Haar), not functions of a few angles, so the 64 coordinates of the
 half-circuit unitaries vary independently from one catalogue entry to the next.
 
-Output: data/processed/circuits_noise0.npz with
+Output: data/processed/circuits.npz with
     A  (m, n, 64) complex64, entries of the 8 x 8 matrices in row-major order (the
        coefficients of staralg.MatrixAlgebra(8, "C"))                  (128 MB for 500 x 500)
     nodes, weights (quadrature), strengths c_s (8,), seed, eps, noise
@@ -95,7 +95,7 @@ def main():
     ap.add_argument("--eps", type=float, default=0.08, help="standard deviation of the per-gate error strengths")
     ap.add_argument("--noise", type=float, default=0.0, help="relative estimation noise (0 in the paper)")
     ap.add_argument("--seed", type=int, default=1)
-    ap.add_argument("--out", default=str(HERE / "processed" / "circuits_noise0.npz"))
+    ap.add_argument("--out", default=str(HERE / "processed" / "circuits.npz"))
     args = ap.parse_args()
     rng = np.random.default_rng(args.seed)
 

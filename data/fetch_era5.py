@@ -1,4 +1,4 @@
-"""ERA5 anomalies from WeatherBench 2 for experiment 2.
+"""ERA5 anomalies from WeatherBench 2 (paper Section 6.3).
 
 Data: ERA5 on the 64 x 32 equiangular grid (5.625 degrees, no poles), 6-hourly,
 from the public WeatherBench 2 bucket (anonymous access):

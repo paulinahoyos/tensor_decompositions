@@ -34,43 +34,39 @@ Every experiment has three steps: generate or download its data into `data/proce
 from that CSV into `figures/`. The CSV files and figures of the paper are committed, so
 you can redraw the figures without rerunning the experiments.
 
-| Paper | Data | K | Script | Results | Figure |
-|---|---|---|---|---|---|
-| Fig. 5, §6.1 | Noisy three-qubit quantum circuits, 500 x 500 matrix over K | M_8(C) | `exp10_circuits_svd.py` | `exp10_noise0.csv` | `exp10_noise0_paper_log` |
-| Fig. 6, §6.2 | Vlasov–Poisson, 48 x 48 x 32 tensor over K | R[Z_32 x Z_32] | `exp3_vlasov.py` | `exp3_format.csv` | `exp3_format_paper_log` |
-| Fig. 7, §6.3 | ERA5 2019 anomalies, order-4 tensor over K | R[Z_64] | `exp2_era5.py --format` | `exp2_lon_format.csv` | `exp2_lon_format_paper_log` |
-| Fig. 8, §6.3 | ERA5 2019 anomalies, order-3 tensor over K | R[Z_64] (x) DCT_32 | `exp2_era5.py --format` | `exp2_lonlat_format.csv` | `exp2_lonlat_format_paper_log` |
-| §6.3, tree tensor networks | ERA5 2019 anomalies, order-4 tensor over K | R[Z_64] | `exp2_era5.py --ttn` | `exp2_lon_ttn.csv` | `exp2_lon_ttn_paper`, `exp2_lon_ttn_paper_log` |
+Each figure's results and plot share one name: `results/<name>.csv` and
+`figures/<name>.pdf` (and `.png`).
+
+| Paper | Data | K | Script | Name |
+|---|---|---|---|---|
+| §6.1, Fig. 5 | quantum circuits: 500 x 500 matrix over K | M_8(C) | `quantum_circuits.py` | `fig5_quantum_circuits` |
+| §6.2, Fig. 6 | Vlasov–Poisson: 48 x 48 x 32 tensor over K | R[Z_32 x Z_32] | `vlasov_poisson.py` | `fig6_vlasov_poisson` |
+| §6.3, Fig. 8 | ERA5: order-4 tensor over K_1 (trees of Fig. 7) | K_1 = R[Z_64] | `era5.py` | `fig8_era5_K1` |
+| §6.3, Fig. 9 | ERA5: order-3 tensor over K_2 | K_2 = R[Z_64] (x) DCT_32 | `era5.py` | `fig9_era5_K2` |
 
 The run times below were measured on a MacBook Air (M2, 8 GB of RAM).
 
 ```bash
 pip install -e ".[all]"
 
-# Figure 5: quantum circuits (simulated, about a minute, 128 MB)
+# Section 6.1, Figure 5: quantum circuits (simulated, about a minute, 128 MB)
 python data/simulate_circuits.py
-python experiments/exp10_circuits_svd.py          # a few minutes
-python experiments/plot_paper.py exp10_noise0 --logx --logy --xmax 0.1 --ymax 2000 --mark-gap 0.04 \
-    --out figures/exp10_noise0_paper_log
+python experiments/quantum_circuits.py            # a few minutes
 
-# Figure 6: Vlasov-Poisson (simulated, a few minutes, 300 MB)
+# Section 6.2, Figure 6: Vlasov-Poisson (simulated, a few minutes, 300 MB)
 python data/simulate_vlasov.py
-python experiments/exp3_vlasov.py                 # about 20 minutes
-python experiments/plot_paper.py exp3_format --xmax 0.5 --xstep 0.1 --logy --legend "lower right" --ncol 2 \
-    --drop "TT over K" --out figures/exp3_format_paper_log
+python experiments/vlasov_poisson.py              # about 20 minutes
 
-# Figures 7 and 8, and the tree tensor networks: ERA5
+# Section 6.3, Figures 8 and 9: ERA5
 # (WeatherBench 2, anonymous Google Cloud Storage; about 1.3 GB transferred, 200 MB kept)
 python data/fetch_era5.py
-python experiments/exp2_era5.py                   # --format (about 30 minutes), then --ttn (about 7 minutes)
-python experiments/plot_paper.py exp2_lon_format --xmax 0.5 --xstep 0.1 --logy --out figures/exp2_lon_format_paper_log
-python experiments/plot_paper.py exp2_lonlat_format --xmax 0.5 --xstep 0.1 --logy --ymax 100 \
-    --out figures/exp2_lonlat_format_paper_log
-python experiments/plot_paper.py exp2_lon_ttn --xmax 0.5 --xstep 0.1 --out figures/exp2_lon_ttn_paper
-python experiments/plot_paper.py exp2_lon_ttn --xmax 0.5 --xstep 0.1 --logy --out figures/exp2_lon_ttn_paper_log
+python experiments/era5.py                        # about 35 minutes
+
+# all four figures, from the csv files in results/
+python experiments/plot_paper.py                  # or one figure: plot_paper.py fig6_vlasov_poisson
 ```
 
-`exp3_vlasov.py` and `exp2_era5.py` take `--quick` (every fourth tolerance) for a first
+`vlasov_poisson.py` and `era5.py` take `--quick` (every fourth tolerance) for a first
 look. Each experiment script prints a table of relative errors at fixed compression ratios.
 To print that table again from a results file, run
 `python experiments/common.py results/<name>.csv`.
@@ -87,8 +83,9 @@ staralg/core/       svd_K, llsv_K, truncation; HOSVD, ST-HOSVD (tucker.py, tucke
                     TT-SVD (tt.py); TTN-SVD (ttn.py)
 staralg/metrics.py  relative error, storage counts, compression ratio
 data/               scripts that simulate or download the data
-experiments/        one script per experiment, and plot_paper.py for the figures
-results/            CSV files of the paper's experiments
+experiments/        one script per data set (quantum_circuits.py, vlasov_poisson.py, era5.py),
+                    and plot_paper.py for the figures
+results/            CSV files of the paper's figures
 figures/            the paper's figures (PDF and PNG)
 tests/              one test file per module
 ```

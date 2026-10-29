@@ -1,62 +1,4 @@
 method,panel,kind,truncation,param,rep,n_params,compression_ratio,rel_error
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.005,0,55164171.0,0.8808035926072377,0.004520670469599756
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.0075,0,53887547.0,0.9016702875712639,0.007078468858087762
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.01,0,52551723.0,0.9245900462673697,0.00976509734104661
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.02,0,48339911.0,1.0051487268977388,0.019205776117987156
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.03,0,45283922.0,1.0729812669494485,0.02811639459134677
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.04,0,42523296.0,1.142639554563221,0.03684321825112493
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.05,0,40117519.0,1.2111616373883938,0.04545469037123872
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.06,0,37819111.0,1.2847684336101926,0.05354520379495918
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.07,0,35610680.0,1.3644445992045082,0.061889380825568906
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.08,0,33873110.0,1.4344357515445143,0.06925124392408791
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.09,0,32007321.0,1.5180526980061844,0.07752811670134994
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.1,0,30465166.0,1.59489693901553,0.08488256925932793
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.11,0,28906480.0,1.6808964633535457,0.09264220422968197
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.12,0,27498506.0,1.766961448741979,0.09993347912101169
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.13,0,26086019.0,1.8626376067578576,0.10755033138424062
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.14,0,24742002.0,1.9638184492912094,0.11433633869820532
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.15,0,23627602.0,2.0564422915198928,0.12072151972242827
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.16,0,22253460.0,2.183426757007674,0.12873352259149884
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.17,0,21035551.0,2.3098420383663827,0.1360626341882488
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.18,0,19849176.0,2.447900104266293,0.14393079268406372
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.19,0,18921531.0,2.567910598777657,0.1504836944513993
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.2,0,17780501.0,2.7327014013834594,0.15774167437056172
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.21,0,16608682.0,2.9255060696568216,0.1646752344566061
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.22,0,15626127.0,3.10945892094695,0.17020497623119418
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.23,0,14879128.0,3.265567713376752,0.17593390292700267
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.24,0,14074948.0,3.4521477450573883,0.18199268113253173
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.25,0,13192284.0,3.6831226495730385,0.18888279701269348
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.26,0,12492356.0,3.8894824963361594,0.19493978236947915
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.27,0,11856325.0,4.098133274855404,0.20093060750533956
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.28,0,11055316.0,4.395062067877571,0.2092731348766743
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.29,0,10478970.0,4.636791593066876,0.21550490705549855
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.3,0,9852431.0,4.931655953743802,0.2219380995055427
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.31,0,9204057.0,5.279063352171765,0.22866381029920965
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.32,0,8677723.0,5.599256855744301,0.23507371932237764
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.33,0,8116051.0,5.986753902852508,0.24199998665961922
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.34,0,7565647.0,6.422292766236648,0.24797537982617643
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.35,0,7085914.0,6.857097051982285,0.25561726404367496
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.36,0,6658308.0,7.297469567343535,0.26116629786831413
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.37,0,6213078.0,7.820407212013111,0.2684437990929119
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.38,0,5792864.0,8.387699072514044,0.2771203773024104
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.39,0,5437222.0,8.936328146983882,0.2821682466337264
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.4,0,5084941.0,9.555430436656,0.28892871967993616
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.41,0,4802809.0,10.116746262447663,0.2936811143920484
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.42,0,4465794.0,10.880215253995146,0.3018273897150063
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.43,0,4222979.0,11.505811418905942,0.3065530991822141
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.44,0,3956868.0,12.279611045908027,0.3130953440470607
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.45,0,3685514.0,13.18372416981729,0.32152426190620786
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.46,0,3477076.0,13.974040256813483,0.3283357995814627
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.47,0,3238804.0,15.002081015090756,0.3335399220908433
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.48,0,3021065.0,16.083334850458364,0.3413998444201751
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.49,0,2821534.0,17.220703347895153,0.3467893539384843
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.5,0,2613261.0,18.59316769354458,0.3554330327030887
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.55,0,1927376.0,25.209818945550843,0.38760318668191296
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.6,0,1397009.0,34.78059196469028,0.4182899943676091
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.65,0,1047056.0,46.40515884537217,0.44919090361405295
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.7,0,784862.0,61.907443601550334,0.4795454597854316
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.75,0,590468.0,82.28862529383473,0.5121553145344393
-"R[Z_64] on lon, HOSVD",Format comparison,ours,adaptive,0.8,0,461583.0,105.26557520532602,0.5403072341924153
 "R[Z_64] on lon, ST-HOSVD",Format comparison,ours,adaptive,0.005,0,55158417.0,0.8808954760249919,0.004583902049043462
 "R[Z_64] on lon, ST-HOSVD",Format comparison,ours,adaptive,0.0075,0,53872621.0,0.9019201052052025,0.00714359144580494
 "R[Z_64] on lon, ST-HOSVD",Format comparison,ours,adaptive,0.01,0,52510883.0,0.9253091402024224,0.009878637327194217
@@ -165,64 +107,6 @@ method,panel,kind,truncation,param,rep,n_params,compression_ratio,rel_error
 "R[Z_64] on lon, TT",Format comparison,ours,adaptive,0.5,0,492787.0,98.60000365269376,0.4993836927906684
 "R[Z_64] on lon, TT",Format comparison,ours,adaptive,0.55,0,323375.0,150.25527638190954,0.5492403684424761
 "R[Z_64] on lon, TT",Format comparison,ours,adaptive,0.6,0,216113.0,224.83052847353005,0.5990541846702331
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.02,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.03,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.04,0,48593854.0,0.9998959950778961,0.01563427348991871
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.05,0,47705265.0,1.0185207020650655,0.02861531344115398
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.06,0,46950161.0,1.034901669453274,0.03432172886766148
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.07,0,46820836.0,1.0377601971908403,0.037761910811822404
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.08,0,45813322.0,1.060582334544524,0.04788873016289163
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.09,0,44939293.0,1.0812097110651029,0.05407188328517941
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.1,0,44069424.0,1.102551283629212,0.05978275680897505
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.11,0,38540105.0,1.260733461935301,0.09342453817028722
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.12,0,37665111.0,1.2900214206192038,0.09816191806967572
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.13,0,36797557.0,1.3204354843447894,0.10278081731358876
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.14,0,36040108.0,1.3481868589295016,0.10602256294699897
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.15,0,35084769.0,1.3848972470076688,0.11168350950542245
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.16,0,29817546.0,1.6295371859240193,0.13592298474925607
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.17,0,29077552.0,1.6710072429756122,0.13953620078425455
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.18,0,28344158.0,1.7142439016886655,0.1432370508892543
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.19,0,26622512.0,1.8251020038980543,0.15541721495091496
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.2,0,25927893.0,1.8739972430463208,0.15891610872577516
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.21,0,22403737.0,2.168781038627618,0.1752721954876445
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.22,0,21722528.0,2.2367930657057964,0.17932045687912948
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.23,0,20328387.0,2.390194558968205,0.18972581793549553
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.24,0,19747993.0,2.460442435846519,0.19296338997896065
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.25,0,19114034.0,2.5420484236870147,0.19711261584806103
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.26,0,17832443.0,2.7247416408396763,0.2072664829569724
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.27,0,15476506.0,3.1395199924324007,0.2210609427309202
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.28,0,14949252.0,3.2502495777046234,0.22490099277179026
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.29,0,14261920.0,3.406890516844857,0.23236869191085524
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.3,0,13764681.0,3.529961936640595,0.2362800881940234
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.31,0,13274462.0,3.660321600980891,0.24013909103640357
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.32,0,12262746.0,3.9623099100315704,0.25048960678955373
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.33,0,10506574.0,4.6246093160339425,0.26591656404814995
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.34,0,10400479.0,4.671784828371847,0.2675307896023055
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.35,0,9968955.0,4.874011368292865,0.27208900869206576
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.36,0,9199924.0,5.28143493359293,0.2814521392144916
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.37,0,8800000.0,5.521454545454546,0.2861986530995875
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.38,0,8706745.0,5.580592977053997,0.28776448650204406
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.39,0,7975109.0,6.09255622713119,0.2980030394419222
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.4,0,6915196.0,7.02638074177507,0.31190351768441055
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.41,0,6597307.0,7.364944514481439,0.3165898919134816
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.42,0,6039546.0,8.04510802633178,0.3262499805936244
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.43,0,5948766.0,8.167878850840662,0.32816638793617336
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.44,0,5681187.0,8.552578888883609,0.3328292149098505
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.45,0,5343555.0,9.09297274941495,0.34063904385760774
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.46,0,5095436.0,9.535749246973173,0.3450608850321707
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.47,0,5014596.0,9.689474486080234,0.3469791006246819
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.48,0,4773827.0,10.178165233050967,0.35209926459875884
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.49,0,3849972.0,12.620559318353484,0.37272305661041005
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.5,0,3659213.0,13.278483652085844,0.3772743083640118
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.55,0,2966683.0,16.378157019135514,0.3994749704533733
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.6,0,2096134.0,23.180197449208876,0.4348016997445784
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.65,0,1668534.0,29.120653220132162,0.4589133701144109
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.7,0,1116790.0,43.5075528971427,0.4995329706118827
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.75,0,918344.0,52.90914951260094,0.5207208476883344
-"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.8,0,749863.0,64.79690290092991,0.5423422522373945
 "R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.259421986568896e-15
 "R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.259421986568896e-15
 "R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.259421986568896e-15
@@ -331,3 +215,111 @@ method,panel,kind,truncation,param,rep,n_params,compression_ratio,rel_error
 "R (no algebra), TT",Format comparison,baseline,uniform,0.5,0,2041085.0,23.805378021983405,0.4957782584617337
 "R (no algebra), TT",Format comparison,baseline,uniform,0.55,0,1370004.0,35.4661738213903,0.5453805504456938
 "R (no algebra), TT",Format comparison,baseline,uniform,0.6,0,903566.0,53.77448907993439,0.5973090967687211
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.005,0,49571671.0,0.9801727280889926,0.00495267564229152
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.0075,0,47699379.0,1.0186463853124796,0.007439382802825801
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.01,0,46325779.0,1.0488501445383143,0.009902224850733653
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.02,0,42238507.0,1.150343689941503,0.01988362432134441
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.03,0,38449423.0,1.2637068701915242,0.029890969508339433
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.04,0,34958916.0,1.389882912845467,0.039925974001484996
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.05,0,31897406.0,1.523283742884923,0.049920819432356836
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.06,0,29184167.0,1.6649027536060905,0.05994505218776974
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.07,0,26630169.0,1.8245772304336485,0.06995120928602004
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.08,0,24315907.0,1.9982310345240257,0.07982953334538752
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.09,0,22091582.0,2.1994260076077845,0.08985543228247729
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.1,0,20093217.0,2.4181692757312083,0.09996653028786542
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.11,0,18225207.0,2.6660218454583258,0.10985343761898306
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.12,0,16561986.0,2.933754442251068,0.11990878244564983
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.13,0,15063545.0,3.225588664554061,0.12984726290298576
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.14,0,13650522.0,3.559482926733498,0.1397988660966738
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.15,0,12357038.0,3.9320749843125835,0.14983375151959946
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.16,0,11203687.0,4.336858036109006,0.15989686556401803
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.17,0,10129707.0,4.796663911404347,0.16982648945459053
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.18,0,9132837.0,5.320230723487127,0.1797853838839165
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.19,0,8250896.0,5.888911943624062,0.1897443463207458
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.2,0,7431839.0,6.537924193460057,0.19996144147628936
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.21,0,6709047.0,7.242280460995429,0.20982819794732402
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.22,0,6051927.0,8.02864938721171,0.21970596493760478
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.23,0,5435359.0,8.93939112393496,0.22993410696605165
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.24,0,4903067.0,9.909878857457995,0.239774226354421
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.25,0,4415981.0,11.002945891297992,0.2497592752052992
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.26,0,3984693.0,12.193862864717557,0.25971174666831803
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.27,0,3557006.0,13.66002756250622,0.2698909855495136
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.28,0,3210615.0,15.133798353274996,0.2798340310104504
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.29,0,2894991.0,16.78374820508941,0.2896832493851887
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.3,0,2591763.0,18.74739318371317,0.29961751266722547
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.31,0,2304723.0,21.082273227628658,0.3097616449421974
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.32,0,2068311.0,23.492018366676966,0.319679593050482
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.33,0,1855475.0,26.186717686845686,0.3295716598544754
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.34,0,1642975.0,29.573669714998708,0.33975352639796585
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.35,0,1475746.0,32.92490713171508,0.34945255511395934
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.36,0,1318505.0,36.85143401048915,0.3597749934375827
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.37,0,1182046.0,41.10567609043979,0.36974213666679884
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.38,0,1054687.0,46.06940258105011,0.3796781307854708
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.39,0,960007.0,50.61296428046879,0.38931166652122406
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.4,0,865967.0,56.109297467455455,0.3991642544785199
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.41,0,777873.0,62.463666948203624,0.4091683101396821
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.42,0,697673.0,69.64408827631283,0.41954000757436244
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.43,0,622431.0,78.06294994947231,0.4295132267213579
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.44,0,567001.0,85.69438149139067,0.43959828321182576
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.45,0,515143.0,94.32099436467156,0.44910260750228254
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.46,0,464387.0,104.62997456862487,0.4590354066046132
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.47,0,417723.0,116.31823002324506,0.4694087779780854
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.48,0,378871.0,128.24628963420267,0.47959993868142287
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.49,0,343970.0,141.2588307119807,0.4894454850975471
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.5,0,313531.0,154.97287349576277,0.49918989203088293
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.55,0,195976.0,247.93239988570028,0.5492521427268083
+"R[Z_64] on lon, TTN column-EOF",Format comparison,ours,adaptive,0.6,0,125025.0,388.63267346530694,0.5992111186589881
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.005,0,44993445.0,1.079908417770633,0.0018773583180756808
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.0075,0,43498275.0,1.1170282039919974,0.0033193403373332547
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.01,0,42003105.0,1.1567906705944715,0.004817807508805254
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.02,0,41255520.0,1.1777526983055844,0.00660579153563476
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.03,0,40507935.0,1.199488445905722,0.012387271107028454
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.04,0,39034033.0,1.244780420204082,0.029320351128628654
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.05,0,37463074.0,1.2969784593757576,0.03738045309473498
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.06,0,36050772.0,1.347788058463769,0.046765500302082055
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.07,0,33964069.0,1.4305941964727489,0.05696531212186559
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.08,0,32535114.0,1.4934264561052406,0.06617442767392778
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.09,0,31142831.0,1.5601921353906458,0.07443147285478247
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.1,0,28221899.0,1.721670111568325,0.09692411897643748
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.11,0,26957573.0,1.802417450562037,0.10380614917269533
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.12,0,25270467.0,1.9227503789304725,0.11274699655709451
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.13,0,24018765.0,2.0229516380213552,0.12061553202307161
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.14,0,22074877.0,2.201090406981656,0.1361038594022477
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.15,0,20538729.0,2.3657160090091263,0.14496948325917114
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.16,0,19453365.0,2.497706694959972,0.15255415906974443
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.17,0,18218139.0,2.6670561685801166,0.16470524074166198
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.18,0,16870613.0,2.8800850330690415,0.17316847714423445
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.19,0,15877804.0,3.060171293209061,0.18086729702708337
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.2,0,14368246.0,3.3816792947448144,0.1955783631086916
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.21,0,13484629.0,3.6032730303518177,0.20318447742930898
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.22,0,12636348.0,3.845161592574057,0.21061639215685443
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.23,0,11064369.0,4.3914659751495995,0.22630185371243386
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.24,0,10622704.0,4.574051955133081,0.23134491717021408
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.25,0,9513244.0,5.107490147419744,0.2449011129260615
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.26,0,8796679.0,5.523539053772452,0.25413606075389983
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.27,0,7808583.0,6.22248620524364,0.26802239098374303
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.28,0,7672633.0,6.332741315790812,0.27093381148633155
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.29,0,7060864.0,6.8814241429943985,0.27975089939460557
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.3,0,6203868.0,7.832017057745265,0.29422648075316343
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.31,0,5680437.0,8.553708103795536,0.30343686588458346
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.32,0,5149882.0,9.43493462568657,0.31423829011720134
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.33,0,4858813.0,10.000137893761295,0.3208345772517873
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.34,0,4403420.0,11.034332405266815,0.33062004978356657
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.35,0,3953236.0,12.290892828052765,0.3420382145724303
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.36,0,3579469.0,13.574303898148022,0.3515274900750706
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.37,0,3161972.0,15.366612987085274,0.3653996948198116
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.38,0,2990529.0,16.247560214263096,0.3701844608654868
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.39,0,2792541.0,17.39949386598084,0.377519997364426
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.4,0,2339862.0,20.765669086467494,0.39563192652000717
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.41,0,2192008.0,22.166342458604166,0.4012654281445342
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.42,0,2147348.0,22.627352436586897,0.4039414085130173
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.43,0,1778189.0,27.324879413830587,0.4229409327794768
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.44,0,1641931.0,29.592473739761292,0.4317633415214043
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.45,0,1536758.0,31.617730312775336,0.4371438512325022
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.46,0,1317741.0,36.872799738340085,0.45383832963449955
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.47,0,1221239.0,39.78647914126555,0.46038798442279083
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.48,0,1198112.0,40.55447236986192,0.46272459236426516
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.49,0,963101.0,50.4503681337679,0.4839213295248306
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.5,0,943238.0,51.512767721402234,0.4864638994596326
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.55,0,590770.0,82.24655957479222,0.5350853399292073
+"R (no algebra), TTN column-EOF",Format comparison,baseline,uniform,0.6,0,322574.0,150.62838294468867,0.5947192671346825

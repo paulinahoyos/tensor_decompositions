@@ -103,8 +103,8 @@ def load_rows(path):
 
 if __name__ == "__main__":
     # re-print the summary tables of a results file:
-    #   python experiments/common.py results/exp3_format.csv
-    #   python experiments/common.py results/exp2_lon_format.csv 8,16,32,64     (other compression ratios)
+    #   python experiments/common.py results/fig6_vlasov_poisson.csv
+    #   python experiments/common.py results/fig8_era5_K1.csv 8,16,32,64          (other compression ratios)
     import sys
 
     tg = tuple(float(t) for t in sys.argv[2].split(",")) if len(sys.argv) > 2 else (2, 4, 8, 16, 32, 64)

@@ -1,4 +1,4 @@
-"""2D2V Vlasov-Poisson simulation (nonlinear Landau damping) for experiment 3.
+"""2D2V Vlasov-Poisson simulation (nonlinear Landau damping) (paper Section 6.2).
 
 Equations (electrons, normalized units, neutralizing ion background):
     d_t f + v . grad_x f - E . grad_v f = 0,     div E = 1 - int f dv,   E = -grad phi,

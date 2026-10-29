@@ -1,5 +1,5 @@
-"""Quantum circuits: SVD of a matrix over K = M_8(C) against SVDs of its unfoldings and
-against HOSVD over C (paper Figure 5).
+"""Quantum-circuit data: SVD of a matrix over K = M_8(C) against SVDs of its unfoldings and
+against HOSVD over C (paper Section 6.1, Figure 5).
 
 Data (data/simulate_circuits.py): A(i, j) = expectation over a common drift xi of
 U_second(i, xi) U_first(j, xi), the unitaries of random three-qubit circuits split into two
@@ -21,10 +21,10 @@ coordinates of U_second(i) vary independently with i.  Tucker then finds no smal
 subspace shared by the coordinates and needs about 64 dimensions per side and a dense
 64 x 64 x 64 core, while one column over K stores each half once.
 
-Output: results/exp10_noise0.csv
+Output: results/fig5_quantum_circuits.csv
 Usage:
-    python data/simulate_circuits.py                 # data/processed/circuits_noise0.npz
-    python experiments/exp10_circuits_svd.py         # a few minutes
+    python data/simulate_circuits.py                 # data/processed/circuits.npz
+    python experiments/quantum_circuits.py           # a few minutes
 """
 from __future__ import annotations
 
@@ -76,8 +76,8 @@ def run(label, A, K, n_data, ref=None, back=None, adaptive=True, kmax=200, extra
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--data", default=str(ROOT / "data" / "processed" / "circuits_noise0.npz"))
-    ap.add_argument("--out", default=str(ROOT / "results" / "exp10_noise0.csv"))
+    ap.add_argument("--data", default=str(ROOT / "data" / "processed" / "circuits.npz"))
+    ap.add_argument("--out", default=str(ROOT / "results" / "fig5_quantum_circuits.csv"))
     ap.add_argument("--eps-min", type=float, default=1e-8,
                     help="smallest HOSVD tolerance (below the float32 accuracy of the data; "
                          "raise it to the noise level for noisy data)")
