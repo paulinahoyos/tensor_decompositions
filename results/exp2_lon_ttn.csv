@@ -1,0 +1,549 @@
+method,panel,kind,truncation,param,rep,n_params,compression_ratio,rel_error
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.005,0,55164171.0,0.8808035926072377,0.004520670469599756
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.0075,0,53887547.0,0.9016702875712639,0.007078468858087762
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.01,0,52551723.0,0.9245900462673697,0.00976509734104661
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.02,0,48339911.0,1.0051487268977388,0.019205776117987156
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.03,0,45283922.0,1.0729812669494485,0.02811639459134677
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.04,0,42523296.0,1.142639554563221,0.03684321825112493
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.05,0,40117519.0,1.2111616373883938,0.04545469037123872
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.06,0,37819111.0,1.2847684336101926,0.05354520379495918
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.07,0,35610680.0,1.3644445992045082,0.061889380825568906
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.08,0,33873110.0,1.4344357515445143,0.06925124392408791
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.09,0,32007321.0,1.5180526980061844,0.07752811670134994
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.1,0,30465166.0,1.59489693901553,0.08488256925932793
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.11,0,28906480.0,1.6808964633535457,0.09264220422968197
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.12,0,27498506.0,1.766961448741979,0.09993347912101169
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.13,0,26086019.0,1.8626376067578576,0.10755033138424062
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.14,0,24742002.0,1.9638184492912094,0.11433633869820532
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.15,0,23627602.0,2.0564422915198928,0.12072151972242827
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.16,0,22253460.0,2.183426757007674,0.12873352259149884
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.17,0,21035551.0,2.3098420383663827,0.1360626341882488
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.18,0,19849176.0,2.447900104266293,0.14393079268406372
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.19,0,18921531.0,2.567910598777657,0.1504836944513993
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.2,0,17780501.0,2.7327014013834594,0.15774167437056172
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.21,0,16608682.0,2.9255060696568216,0.1646752344566061
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.22,0,15626127.0,3.10945892094695,0.17020497623119418
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.23,0,14879128.0,3.265567713376752,0.17593390292700267
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.24,0,14074948.0,3.4521477450573883,0.18199268113253173
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.25,0,13192284.0,3.6831226495730385,0.18888279701269348
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.26,0,12492356.0,3.8894824963361594,0.19493978236947915
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.27,0,11856325.0,4.098133274855404,0.20093060750533956
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.28,0,11055316.0,4.395062067877571,0.2092731348766743
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.29,0,10478970.0,4.636791593066876,0.21550490705549855
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.3,0,9852431.0,4.931655953743802,0.2219380995055427
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.31,0,9204057.0,5.279063352171765,0.22866381029920965
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.32,0,8677723.0,5.599256855744301,0.23507371932237764
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.33,0,8116051.0,5.986753902852508,0.24199998665961922
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.34,0,7565647.0,6.422292766236648,0.24797537982617643
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.35,0,7085914.0,6.857097051982285,0.25561726404367496
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.36,0,6658308.0,7.297469567343535,0.26116629786831413
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.37,0,6213078.0,7.820407212013111,0.2684437990929119
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.38,0,5792864.0,8.387699072514044,0.2771203773024104
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.39,0,5437222.0,8.936328146983882,0.2821682466337264
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.4,0,5084941.0,9.555430436656,0.28892871967993616
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.41,0,4802809.0,10.116746262447663,0.2936811143920484
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.42,0,4465794.0,10.880215253995146,0.3018273897150063
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.43,0,4222979.0,11.505811418905942,0.3065530991822141
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.44,0,3956868.0,12.279611045908027,0.3130953440470607
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.45,0,3685514.0,13.18372416981729,0.32152426190620786
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.46,0,3477076.0,13.974040256813483,0.3283357995814627
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.47,0,3238804.0,15.002081015090756,0.3335399220908433
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.48,0,3021065.0,16.083334850458364,0.3413998444201751
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.49,0,2821534.0,17.220703347895153,0.3467893539384843
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.5,0,2613261.0,18.59316769354458,0.3554330327030887
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.55,0,1927376.0,25.209818945550843,0.38760318668191296
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.6,0,1397009.0,34.78059196469028,0.4182899943676091
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.65,0,1047056.0,46.40515884537217,0.44919090361405295
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.7,0,784862.0,61.907443601550334,0.4795454597854316
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.75,0,590468.0,82.28862529383473,0.5121553145344393
+"R[Z_64] on lon, HOSVD",Tree tensor networks,ours,adaptive,0.8,0,461583.0,105.26557520532602,0.5403072341924153
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.005,0,55158417.0,0.8808954760249919,0.004583902049043462
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.0075,0,53872621.0,0.9019201052052025,0.00714359144580494
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.01,0,52510883.0,0.9253091402024224,0.009878637327194217
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.02,0,48340743.0,1.0051314271276302,0.01959808835557431
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.03,0,44781382.0,1.085022342544051,0.029024140303289193
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.04,0,41293007.0,1.1766834999446758,0.0397947347833164
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.05,0,38426329.0,1.2644663506628488,0.049547647110247145
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.06,0,35602031.0,1.3647760713426715,0.059272905310004904
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.07,0,32951664.0,1.4745476890028983,0.06977718765839433
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.08,0,30703399.0,1.582521856944894,0.0795157328395134
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.09,0,28461248.0,1.7071914766351777,0.08957430433242429
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.1,0,26424255.0,1.8387954551604198,0.0993294043458824
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.11,0,24448473.0,1.987396104452004,0.10920613282792
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.12,0,22759824.0,2.1348495489244557,0.1190745407703113
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.13,0,20944955.0,2.3198331053945926,0.12963673110066198
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.14,0,19448264.0,2.498361807511457,0.13951250495742268
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.15,0,17986754.0,2.701365682768553,0.149096664004856
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.16,0,16553436.0,2.9352697530591234,0.15854972399360154
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.17,0,15156200.0,3.2058695451366437,0.16920743046401707
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.18,0,13828907.0,3.5135676304714467,0.17926293347339448
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.19,0,12633097.0,3.8461511060985285,0.18979635294029007
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.2,0,11498593.0,4.225630040127518,0.19915250582302063
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.21,0,10514135.0,4.621283633889045,0.2081549852487525
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.22,0,9492766.0,5.118508135563438,0.21776022298262127
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.23,0,8648625.0,5.618095361979505,0.22892347469504715
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.24,0,7892932.0,6.155988674424155,0.2384055588011043
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.25,0,7129893.0,6.814800727023533,0.24906615342945712
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.26,0,6535615.0,7.434464851433262,0.25858573769617493
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.27,0,5879955.0,8.263464601344738,0.26789541929045235
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.28,0,5320542.0,9.132302686455628,0.27829683294018526
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.29,0,4812551.0,10.09626703176756,0.2892667895118305
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.3,0,4370949.0,11.116304491312984,0.29808001310273985
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.31,0,3930694.0,12.36137944088245,0.30927737781227227
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.32,0,3577511.0,13.581733221784644,0.3186204774254115
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.33,0,3301362.0,14.717804348629445,0.3267330012358478
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.34,0,2997477.0,16.209899191887043,0.3359460581315595
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.35,0,2657397.0,18.284358716443197,0.34612616805091007
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.36,0,2378141.0,20.43142101330409,0.35926385131319527
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.37,0,2189354.0,22.19321315785387,0.36813642165560484
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.38,0,1928920.0,25.18963979843643,0.3785245716077414
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.39,0,1725836.0,28.153775909182563,0.38894313742258513
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.4,0,1556485.0,31.21700498238017,0.3986121080664311
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.41,0,1395448.0,34.81949882761665,0.4086121052180507
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.42,0,1291420.0,37.62432051540165,0.41459615571154507
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.43,0,1130295.0,42.98771559637086,0.429696193905519
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.44,0,1038640.0,46.78117538319341,0.4346642258812066
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.45,0,931610.0,52.155730402206935,0.4453384025806522
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.46,0,835721.0,58.139977336934216,0.4566083142838972
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.47,0,762037.0,63.76173335415472,0.4661411387655418
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.48,0,688102.0,70.61278705773272,0.47660799725782227
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.49,0,602800.0,80.60517584605176,0.4887825893977561
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.5,0,560700.0,86.65739254503299,0.49364575442909503
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.55,0,347007.0,140.02253556844676,0.5457565523488109
+"R[Z_64] on lon, ST-HOSVD",Tree tensor networks,ours,adaptive,0.6,0,214918.0,226.08064471100604,0.5936052756859512
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.005,0,64059199.0,0.758498400830769,0.0049564432410092165
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.0075,0,62598892.0,0.7761926520999765,0.007443939512756244
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.01,0,61230041.0,0.7935451161954963,0.009917144491362134
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.02,0,55997509.0,0.8676957398229982,0.01988571487728289
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.03,0,51066813.0,0.9514750803031315,0.02991720295567358
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.04,0,46549807.0,1.043802394282752,0.03992270021886959
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.05,0,42433709.0,1.145051920867912,0.04993096134857057
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.06,0,38682242.0,1.2561009261045417,0.059975838136467986
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.07,0,35219114.0,1.379614490018119,0.06998861156118855
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.08,0,32074684.0,1.5148644956252726,0.07985894425059975
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.09,0,29090838.0,1.6702440816589745,0.08989111314544652
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.1,0,26332206.0,1.84522329804043,0.09996159535298228
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.11,0,23819713.0,2.039856651505415,0.10987097885844388
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.12,0,21515090.0,2.258359133054986,0.11992030250108464
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.13,0,19434122.0,2.500179838327659,0.12986377273603494
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.14,0,17523384.0,2.7727977655457416,0.13985975674088316
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.15,0,15803929.0,3.0744759736645237,0.14985776130745657
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.16,0,14240101.0,3.4121106303951074,0.15989357769188944
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.17,0,12818493.0,3.790523581828223,0.1698520096161374
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.18,0,11543443.0,4.209212104222284,0.1798338100429243
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.19,0,10372108.0,4.684563639329633,0.18986064466205543
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.2,0,9332900.0,5.206184572855168,0.19997632444134572
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.21,0,8405379.0,5.780679253130644,0.20986464878650843
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.22,0,7585139.0,6.405789003998477,0.2198376863989571
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.23,0,6822697.0,7.1216411926251455,0.2299719947458323
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.24,0,6171268.0,7.873390039129722,0.2397564821653276
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.25,0,5561071.0,8.737309773602963,0.24985782783375712
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.26,0,5013459.0,9.691671957425003,0.25983617400697895
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.27,0,4513497.0,10.765222620065993,0.269896111474011
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.28,0,4071350.0,11.934321539538482,0.27983315637141143
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.29,0,3674951.0,13.22161846511695,0.28987296164216564
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.3,0,3311630.0,14.67217050213943,0.2998278259133027
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.31,0,2990097.0,16.249907611692866,0.3097620518790304
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.32,0,2699410.0,17.99978513823391,0.31984863279271236
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.33,0,2448170.0,19.846987750033698,0.32962209557569266
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.34,0,2200143.0,22.084382696942882,0.33991309353487825
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.35,0,1987905.0,24.442214290924365,0.34963101218175846
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.36,0,1804545.0,26.925790157629763,0.35979669515456403
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.37,0,1636348.0,29.693439292864355,0.36974542000715527
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.38,0,1477982.0,32.87509590779861,0.37981191515181784
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.39,0,1350761.0,35.971426477370905,0.3897004301396272
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.4,0,1222117.0,39.75789552064164,0.39957333258767874
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.41,0,1113413.0,43.63951202294207,0.4096367323451843
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.42,0,1013164.0,47.957487632801794,0.4198356057292933
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.43,0,918938.0,52.874949126056386,0.4297558988095633
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.44,0,840143.0,57.83396397994151,0.43957994946130274
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.45,0,770781.0,63.03839871506952,0.44947268903860843
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.46,0,700229.0,69.38987102790658,0.45944597337709453
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.47,0,639288.0,76.00455506751261,0.4696732561479681
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.48,0,588270.0,82.59608683087698,0.47954202145285274
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.49,0,538441.0,90.23978486036539,0.4893788703356697
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.5,0,492787.0,98.60000365269376,0.4993836927906684
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.55,0,323375.0,150.25527638190954,0.5492403684424761
+"R[Z_64] on lon, TT",Tree tensor networks,ours,adaptive,0.6,0,216113.0,224.83052847353005,0.5990541846702331
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.02,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.03,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.04,0,48593854.0,0.9998959950778961,0.01563427348991871
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.05,0,47705265.0,1.0185207020650655,0.02861531344115398
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.06,0,46950161.0,1.034901669453274,0.03432172886766148
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.07,0,46820836.0,1.0377601971908403,0.037761910811822404
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.08,0,45813322.0,1.060582334544524,0.04788873016289163
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.09,0,44939293.0,1.0812097110651029,0.05407188328517941
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.1,0,44069424.0,1.102551283629212,0.05978275680897505
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.11,0,38540105.0,1.260733461935301,0.09342453817028722
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.12,0,37665111.0,1.2900214206192038,0.09816191806967572
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.13,0,36797557.0,1.3204354843447894,0.10278081731358876
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.14,0,36040108.0,1.3481868589295016,0.10602256294699897
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.15,0,35084769.0,1.3848972470076688,0.11168350950542245
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.16,0,29817546.0,1.6295371859240193,0.13592298474925607
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.17,0,29077552.0,1.6710072429756122,0.13953620078425455
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.18,0,28344158.0,1.7142439016886655,0.1432370508892543
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.19,0,26622512.0,1.8251020038980543,0.15541721495091496
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.2,0,25927893.0,1.8739972430463208,0.15891610872577516
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.21,0,22403737.0,2.168781038627618,0.1752721954876445
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.22,0,21722528.0,2.2367930657057964,0.17932045687912948
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.23,0,20328387.0,2.390194558968205,0.18972581793549553
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.24,0,19747993.0,2.460442435846519,0.19296338997896065
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.25,0,19114034.0,2.5420484236870147,0.19711261584806103
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.26,0,17832443.0,2.7247416408396763,0.2072664829569724
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.27,0,15476506.0,3.1395199924324007,0.2210609427309202
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.28,0,14949252.0,3.2502495777046234,0.22490099277179026
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.29,0,14261920.0,3.406890516844857,0.23236869191085524
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.3,0,13764681.0,3.529961936640595,0.2362800881940234
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.31,0,13274462.0,3.660321600980891,0.24013909103640357
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.32,0,12262746.0,3.9623099100315704,0.25048960678955373
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.33,0,10506574.0,4.6246093160339425,0.26591656404814995
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.34,0,10400479.0,4.671784828371847,0.2675307896023055
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.35,0,9968955.0,4.874011368292865,0.27208900869206576
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.36,0,9199924.0,5.28143493359293,0.2814521392144916
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.37,0,8800000.0,5.521454545454546,0.2861986530995875
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.38,0,8706745.0,5.580592977053997,0.28776448650204406
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.39,0,7975109.0,6.09255622713119,0.2980030394419222
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.4,0,6915196.0,7.02638074177507,0.31190351768441055
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.41,0,6597307.0,7.364944514481439,0.3165898919134816
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.42,0,6039546.0,8.04510802633178,0.3262499805936244
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.43,0,5948766.0,8.167878850840662,0.32816638793617336
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.44,0,5681187.0,8.552578888883609,0.3328292149098505
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.45,0,5343555.0,9.09297274941495,0.34063904385760774
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.46,0,5095436.0,9.535749246973173,0.3450608850321707
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.47,0,5014596.0,9.689474486080234,0.3469791006246819
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.48,0,4773827.0,10.178165233050967,0.35209926459875884
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.49,0,3849972.0,12.620559318353484,0.37272305661041005
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.5,0,3659213.0,13.278483652085844,0.3772743083640118
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.55,0,2966683.0,16.378157019135514,0.3994749704533733
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.6,0,2096134.0,23.180197449208876,0.4348016997445784
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.65,0,1668534.0,29.120653220132162,0.4589133701144109
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.7,0,1116790.0,43.5075528971427,0.4995329706118827
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.75,0,918344.0,52.90914951260094,0.5207208476883344
+"R (no algebra), HOSVD",Tree tensor networks,baseline,uniform,0.8,0,749863.0,64.79690290092991,0.5423422522373945
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.02,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.03,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.04,0,48593854.0,0.9998959950778961,0.01563427348991871
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.05,0,47705265.0,1.0185207020650655,0.02861509684307926
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.06,0,46950161.0,1.034901669453274,0.03432122085362872
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.07,0,46820836.0,1.0377601971908403,0.03776128390105289
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.08,0,45813322.0,1.060582334544524,0.047887632087357246
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.09,0,44939293.0,1.0812097110651029,0.05407042922797011
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.1,0,43946339.0,1.1056393116159233,0.06190630953199019
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.11,0,38540105.0,1.260733461935301,0.09341026854934933
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.12,0,37665111.0,1.2900214206192038,0.0981428904702143
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.13,0,36797557.0,1.3204354843447894,0.10275918332550046
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.14,0,35937443.0,1.352038318363385,0.10722789501211366
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.15,0,32079561.0,1.51463419340433,0.12303532334659414
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.16,0,29645216.0,1.6390098152767718,0.13772034712731474
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.17,0,28908522.0,1.6807777305252756,0.14129797340457448
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.18,0,28095563.0,1.7294118647844858,0.14587432685395896
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.19,0,26386952.0,1.8413949439859518,0.15785540002133486
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.2,0,23232535.0,2.091411892847681,0.17332728144892737
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.21,0,22068412.0,2.2017352222715436,0.17891392488438831
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.22,0,20597556.0,2.3589594804354457,0.18988737372164083
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.23,0,19894632.0,2.442307050464668,0.19454444919374433
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.24,0,19263473.0,2.5223281388563734,0.19844961502359018
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.25,0,16038934.0,3.029428264995666,0.2196602577721692
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.26,0,15509250.0,3.1328916614278577,0.22325742186445086
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.27,0,14937891.0,3.252721552192341,0.22774303026273907
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.28,0,13801970.0,3.520424982810425,0.23820519115568625
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.29,0,13617990.0,3.567986171233787,0.24076309643494137
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.3,0,11570043.0,4.199534954191614,0.2585602357445326
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.31,0,10614957.0,4.577390186319172,0.26875600674613354
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.32,0,10149068.0,4.787513493849879,0.27361449223129375
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.33,0,9275582.0,5.238355932813704,0.28423459826687864
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.34,0,9139722.0,5.316222966081463,0.2866180039276491
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.35,0,8716393.0,5.574415930993474,0.29165053772164745
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.36,0,6897044.0,7.044873136955484,0.31581419542507255
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.37,0,6560275.0,7.406518781605954,0.3206983076256175
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.38,0,6455775.0,7.526408525699858,0.3230500167077691
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.39,0,5819204.0,8.349733056273676,0.33429884702775564
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.4,0,5722264.0,8.49118460805024,0.33669627543804154
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.41,0,5423155.0,8.959507887936082,0.3418944119216745
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.42,0,4102331.0,11.84419297223944,0.36882402363940753
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.43,0,4027791.0,12.063386605710177,0.3712581758815107
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.44,0,3783617.0,12.841891766529223,0.37724052760602916
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.45,0,3521360.0,13.798305200263535,0.3856674866439943
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.46,0,3298906.0,14.728761595510754,0.39152650326813665
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.47,0,3249211.0,14.954030378451877,0.39354765061743185
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.48,0,2857155.0,17.00600772446717,0.4070591133758227
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.49,0,2278347.0,21.326338788604193,0.42937818123757243
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.5,0,2132058.0,22.7896239220509,0.4347741933524562
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.55,0,1512966.0,32.11493186231548,0.46955332494131985
+"R (no algebra), ST-HOSVD",Tree tensor networks,baseline,uniform,0.6,0,927622.0,52.37995649089823,0.518665083105242
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.005,0,54211633.0,0.8962799552634764,0.0033294701861759724
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.0075,0,53512297.0,0.9079931665052614,0.005149018391742603
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.01,0,52864977.0,0.9191113428461343,0.006966033387572451
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.02,0,50497495.0,0.9622021844845967,0.01407570942046083
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.03,0,48295396.0,1.0060751960704495,0.02112480024599517
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.04,0,45558342.0,1.0665181801392158,0.03697401879371187
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.05,0,43689597.0,1.1121366031368978,0.04529958578308291
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.06,0,41379848.0,1.1742140763784343,0.05655196089165825
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.07,0,39232452.0,1.2384849154980169,0.0685318648704548
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.08,0,37231275.0,1.30505334560796,0.07782424421261672
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.09,0,35355201.0,1.3743041653192694,0.08818710174037583
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.1,0,33604919.0,1.4458835624629836,0.09772771724945992
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.11,0,31908693.0,1.5227449146851613,0.10798710749311927
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.12,0,29912900.0,1.624342674899458,0.11947946844071473
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.13,0,28386897.0,1.7116629549189544,0.12870033228447111
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.14,0,26903670.0,1.8060286942264754,0.13775004464212795
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.15,0,25150724.0,1.9319046242963025,0.1490386965894868
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.16,0,23795916.0,2.0418966010806225,0.1591545819799494
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.17,0,22522036.0,2.157389323061201,0.1681436857553529
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.18,0,20986005.0,2.315295359931535,0.1794251581867997
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.19,0,19820172.0,2.4514822575707216,0.18877902272495523
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.2,0,18697522.0,2.598675910101884,0.1985371552535218
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.21,0,17580174.0,2.7638406764347154,0.20837195054588342
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.22,0,16542982.0,2.9371246369004087,0.21788610372636635
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.23,0,15255659.0,3.184968935134169,0.22978537208613015
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.24,0,14291194.0,3.3999118618080475,0.2397602001898413
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.25,0,13373351.0,3.6332554196775364,0.24953619839723648
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.26,0,12485478.0,3.8916251344161594,0.25933580192192507
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.27,0,11626543.0,4.179127019957695,0.26965170911586084
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.28,0,11060855.0,4.392861130536473,0.2773574561547518
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.29,0,10272228.0,4.730113077708166,0.28717120072857266
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.3,0,9520880.0,5.1033938039340905,0.2975176173435456
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.31,0,8810844.0,5.514658981591321,0.30798328608940734
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.32,0,8140698.0,5.968628242934451,0.3184402320663921
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.33,0,7721602.0,6.292580218457258,0.3262214358514832
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.34,0,7095083.0,6.848235602035945,0.3372143679976337
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.35,0,6524981.0,7.4465810705042665,0.3481047601443217
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.36,0,5964886.0,8.145805301224533,0.3589918043746123
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.37,0,5670444.0,8.568782268196282,0.36619630890796284
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.38,0,5172068.0,9.394462717814228,0.3777180705112711
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.39,0,4904642.0,9.906696553999252,0.385303680138611
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.4,0,4461047.0,10.891792890772054,0.3967537527593459
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.41,0,4041020.0,12.023894957213773,0.4091698594056092
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.42,0,3837046.0,12.663074667335236,0.41628947171720837
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.43,0,3459597.0,14.04464161577201,0.428522679349539
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.44,0,3289610.0,14.770383115323702,0.4357832309480841
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.45,0,2976311.0,16.325175695685026,0.44802714920393444
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.46,0,2811411.0,17.282709642951527,0.4560828055663098
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.47,0,2520361.0,19.278508118479852,0.4682839817799056
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.48,0,2395935.0,20.279682044796708,0.47621570690414544
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.49,0,2138538.0,22.720568912032427,0.488912122087069
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.5,0,2041085.0,23.805378021983405,0.4957782584617337
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.55,0,1370004.0,35.4661738213903,0.5453805504456938
+"R (no algebra), TT",Tree tensor networks,baseline,uniform,0.6,0,903566.0,53.77448907993439,0.5973090967687211
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.005,0,49571671.0,0.9801727280889926,0.00495267564229152
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.0075,0,47699379.0,1.0186463853124796,0.007439382802825801
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.01,0,46325779.0,1.0488501445383143,0.009902224850733653
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.02,0,42238507.0,1.150343689941503,0.01988362432134441
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.03,0,38449423.0,1.2637068701915242,0.029890969508339433
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.04,0,34958916.0,1.389882912845467,0.039925974001484996
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.05,0,31897406.0,1.523283742884923,0.049920819432356836
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.06,0,29184167.0,1.6649027536060905,0.05994505218776974
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.07,0,26630169.0,1.8245772304336485,0.06995120928602004
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.08,0,24315907.0,1.9982310345240257,0.07982953334538752
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.09,0,22091582.0,2.1994260076077845,0.08985543228247729
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.1,0,20093217.0,2.4181692757312083,0.09996653028786542
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.11,0,18225207.0,2.6660218454583258,0.10985343761898306
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.12,0,16561986.0,2.933754442251068,0.11990878244564983
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.13,0,15063545.0,3.225588664554061,0.12984726290298576
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.14,0,13650522.0,3.559482926733498,0.1397988660966738
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.15,0,12357038.0,3.9320749843125835,0.14983375151959946
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.16,0,11203687.0,4.336858036109006,0.15989686556401803
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.17,0,10129707.0,4.796663911404347,0.16982648945459053
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.18,0,9132837.0,5.320230723487127,0.1797853838839165
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.19,0,8250896.0,5.888911943624062,0.1897443463207458
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.2,0,7431839.0,6.537924193460057,0.19996144147628936
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.21,0,6709047.0,7.242280460995429,0.20982819794732402
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.22,0,6051927.0,8.02864938721171,0.21970596493760478
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.23,0,5435359.0,8.93939112393496,0.22993410696605165
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.24,0,4903067.0,9.909878857457995,0.239774226354421
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.25,0,4415981.0,11.002945891297992,0.2497592752052992
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.26,0,3984693.0,12.193862864717557,0.25971174666831803
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.27,0,3557006.0,13.66002756250622,0.2698909855495136
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.28,0,3210615.0,15.133798353274996,0.2798340310104504
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.29,0,2894991.0,16.78374820508941,0.2896832493851887
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.3,0,2591763.0,18.74739318371317,0.29961751266722547
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.31,0,2304723.0,21.082273227628658,0.3097616449421974
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.32,0,2068311.0,23.492018366676966,0.319679593050482
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.33,0,1855475.0,26.186717686845686,0.3295716598544754
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.34,0,1642975.0,29.573669714998708,0.33975352639796585
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.35,0,1475746.0,32.92490713171508,0.34945255511395934
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.36,0,1318505.0,36.85143401048915,0.3597749934375827
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.37,0,1182046.0,41.10567609043979,0.36974213666679884
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.38,0,1054687.0,46.06940258105011,0.3796781307854708
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.39,0,960007.0,50.61296428046879,0.38931166652122406
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.4,0,865967.0,56.109297467455455,0.3991642544785199
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.41,0,777873.0,62.463666948203624,0.4091683101396821
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.42,0,697673.0,69.64408827631283,0.41954000757436244
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.43,0,622431.0,78.06294994947231,0.4295132267213579
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.44,0,567001.0,85.69438149139067,0.43959828321182576
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.45,0,515143.0,94.32099436467156,0.44910260750228254
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.46,0,464387.0,104.62997456862487,0.4590354066046132
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.47,0,417723.0,116.31823002324506,0.4694087779780854
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.48,0,378871.0,128.24628963420267,0.47959993868142287
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.49,0,343970.0,141.2588307119807,0.4894454850975471
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.5,0,313531.0,154.97287349576277,0.49918989203088293
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.55,0,195976.0,247.93239988570028,0.5492521427268083
+"R[Z_64] on lon, TTN column-EOF",Tree tensor networks,ours,adaptive,0.6,0,125025.0,388.63267346530694,0.5992111186589881
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.005,0,50690699.0,0.9585348191785638,0.00444043934629994
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.0075,0,48618705.0,0.9993849075165618,0.007234524765451327
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.01,0,47199962.0,1.0294245575875676,0.009685640925477083
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.02,0,43225662.0,1.1240730101484622,0.019591161519216888
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.03,0,39724027.0,1.2231589712694537,0.02935764657268523
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.04,0,36310635.0,1.3381423927177258,0.03965006975213202
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.05,0,33167809.0,1.4649384890029968,0.04955542078025173
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.06,0,30187495.0,1.6095671403009757,0.05951361019000106
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.07,0,27598975.0,1.7605291500861897,0.06974106332076525
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.08,0,25418843.0,1.911526814969509,0.07936753369014246
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.09,0,23183757.0,2.0958121671133805,0.08925421145053238
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.1,0,21143300.0,2.2980707836525047,0.09962641309394671
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.11,0,19290798.0,2.518755315358131,0.10900359563113501
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.12,0,17607520.0,2.75954819304479,0.11914978716534928
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.13,0,16033292.0,3.030494298987382,0.1296506210457579
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.14,0,14654237.0,3.3156826929986187,0.13903795940152194
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.15,0,13372430.0,3.6335056530488474,0.14911140294866848
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.16,0,12177680.0,3.9899882407814955,0.15924005471334543
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.17,0,11136900.0,4.36286578850488,0.16934929759585537
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.18,0,10073605.0,4.823377529692697,0.17943696101964027
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.19,0,9170624.0,5.29830903545931,0.1892754370945214
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.2,0,8355810.0,5.814971857904859,0.19873744202261978
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.21,0,7562339.0,6.425102074900371,0.20909234760599313
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.22,0,6838788.0,7.1048846666982515,0.21887098485729306
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.23,0,6209944.0,7.824353971630018,0.2283064971447656
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.24,0,5603859.0,8.670596458618963,0.23843905003638427
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.25,0,5108839.0,9.510732281835462,0.2482389814148806
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.26,0,4629443.0,10.495603898784367,0.2583844781497215
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.27,0,4227615.0,11.493194153204584,0.2677730943008051
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.28,0,3799311.0,12.788845135341646,0.27872370413408104
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.29,0,3445311.0,14.102877795357227,0.2888099975413042
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.3,0,3116937.0,15.58863717810145,0.2982341889786203
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.31,0,2814269.0,17.26515837682894,0.3091385596001669
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.32,0,2559739.0,18.981935267619082,0.31804879191603136
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.33,0,2328599.0,20.86610876325207,0.3272281024690985
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.34,0,2080124.0,23.35860746763174,0.3386879312553439
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.35,0,1887120.0,25.747594217643815,0.3477357768969053
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.36,0,1714934.0,28.33275216422323,0.3580233599402846
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.37,0,1551182.0,31.323726036016406,0.3690017754659007
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.38,0,1421042.0,34.19237432813386,0.37623450845217776
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.39,0,1273252.0,38.16118097595763,0.3860988216200821
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.4,0,1144906.0,42.439117272509705,0.3961952141539577
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.41,0,1038962.0,46.76667674082402,0.40599725582501534
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.42,0,933022.0,52.07679990396797,0.41667083559242113
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.43,0,839092.0,57.906403588641055,0.4263312901539074
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.44,0,763491.0,63.640304862794714,0.4368725999508808
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.45,0,687261.0,70.69919579315572,0.44714363497705484
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.46,0,623428.0,77.93810993410627,0.4573358771867713
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.47,0,554709.0,87.59331469292908,0.46855666013104036
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.48,0,515124.0,94.3244733306932,0.4752515384649518
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.49,0,465801.0,104.31235656428389,0.4858490016831981
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.5,0,424778.0,114.38633827552275,0.49609505602079706
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.55,0,260224.0,186.7191342843089,0.5467732462089129
+"R[Z_64] on lon, TTN column-EOF leaves",Tree tensor networks,ours,adaptive,0.6,0,169183.0,287.1967041605835,0.5956903454114572
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.005,0,74263140.0,0.6542788252691712,0.00461048677330521
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.0075,0,72245687.0,0.6725494907398417,0.007053432049117465
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.01,0,70474027.0,0.6894568406031345,0.009454523186274613
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.02,0,63499853.0,0.7651797241168417,0.01963454637765466
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.03,0,58021928.0,0.8374213280192965,0.029475017684114913
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.04,0,52876124.0,0.9189175817803892,0.03985914001540126
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.05,0,48395733.0,1.003989339308075,0.04945437958697751
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.06,0,44176256.0,1.0998849698806525,0.059686362687307384
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.07,0,40265156.0,1.2067207686963886,0.06979451687692577
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.08,0,36941158.0,1.3153025684793098,0.07951242960669778
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.09,0,33653127.0,1.4438123387464112,0.08946895237720763
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.1,0,30721237.0,1.581602980374781,0.09964204587947868
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.11,0,27949533.0,1.7384476513435843,0.10966761919780396
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.12,0,25476338.0,1.9072128812233533,0.11934351678299819
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.13,0,23156376.0,2.098290336968099,0.1296411574862942
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.14,0,21067989.0,2.3062856165341645,0.13960245084808265
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.15,0,19173099.0,2.534217342746731,0.14933501845258454
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.16,0,17404210.0,2.7917842866754654,0.15960735449629906
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.17,0,15822805.0,3.0708082416486837,0.16930783993212972
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.18,0,14402274.0,3.373689460428263,0.17888307535376927
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.19,0,13123033.0,3.7025586996542645,0.18926938638668803
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.2,0,11863034.0,4.09581562355802,0.19963591248516743
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.21,0,10792530.0,4.502076899485107,0.20884862283967817
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.22,0,9780330.0,4.968012326782429,0.2193932786514656
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.23,0,8881481.0,5.470799295748085,0.22902854268218867
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.24,0,8010038.0,6.065988700677824,0.23903596222869528
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.25,0,7265401.0,6.687696935103789,0.24897238588990872
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.26,0,6619842.0,7.339873066456873,0.2587610745056387
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.27,0,5983023.0,8.121112019793339,0.26886968717542153
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.28,0,5416733.0,8.970130150406158,0.27917205882627943
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.29,0,4883372.0,9.949846130911181,0.2897619520416737
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.3,0,4472586.0,10.863692727205246,0.2984094234893409
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.31,0,4026217.0,12.068102638283033,0.30936453922900753
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.32,0,3714685.0,13.08019387915799,0.31777440400696016
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.33,0,3336718.0,14.561853893556483,0.3291353794022169
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.34,0,3048195.0,15.940187553617797,0.3380923386822242
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.35,0,2774743.0,17.51109922612653,0.34759375259651815
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.36,0,2500317.0,19.433055888513337,0.35897679961618667
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.37,0,2293755.0,21.18308188973975,0.3682401512368226
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.38,0,2096192.0,23.179556071199585,0.37797258070630296
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.39,0,1900020.0,25.572783444384797,0.38756093665309044
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.4,0,1744396.0,27.854225760664438,0.39673248279189743
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.41,0,1580878.0,30.7353255595941,0.40665775121219994
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.42,0,1430104.0,33.97571085739219,0.41966058494227776
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.43,0,1319360.0,36.82755275284987,0.4265727748788328
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.44,0,1210823.0,40.1287388825617,0.43668595356220896
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.45,0,1092458.0,44.476583996821844,0.4469589042545747
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.46,0,1004002.0,48.395122718879044,0.45699445810336975
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.47,0,918117.0,52.92223104462721,0.4674601492992137
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.48,0,838353.0,57.957447519123804,0.4776305209506487
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.49,0,764543.0,63.55273673292411,0.48778778904769515
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.5,0,698808.0,69.53097274215521,0.4987153529972566
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.55,0,452311.0,107.42343210755432,0.5487180296492462
+"R[Z_64] on lon, TTN HT",Tree tensor networks,ours,adaptive,0.6,0,302328.0,160.7155142758858,0.596347658764575
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.005,0,44993445.0,1.079908417770633,0.0018773583180756808
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.0075,0,43498275.0,1.1170282039919974,0.0033193403373332547
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.01,0,42003105.0,1.1567906705944715,0.004817807508805254
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.02,0,41255520.0,1.1777526983055844,0.00660579153563476
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.03,0,40507935.0,1.199488445905722,0.012387271107028454
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.04,0,39034033.0,1.244780420204082,0.029320351128628654
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.05,0,37463074.0,1.2969784593757576,0.03738045309473498
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.06,0,36050772.0,1.347788058463769,0.046765500302082055
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.07,0,33964069.0,1.4305941964727489,0.05696531212186559
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.08,0,32535114.0,1.4934264561052406,0.06617442767392778
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.09,0,31142831.0,1.5601921353906458,0.07443147285478247
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.1,0,28221899.0,1.721670111568325,0.09692411897643748
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.11,0,26957573.0,1.802417450562037,0.10380614917269533
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.12,0,25270467.0,1.9227503789304725,0.11274699655709451
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.13,0,24018765.0,2.0229516380213552,0.12061553202307161
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.14,0,22074877.0,2.201090406981656,0.1361038594022477
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.15,0,20538729.0,2.3657160090091263,0.14496948325917114
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.16,0,19453365.0,2.497706694959972,0.15255415906974443
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.17,0,18218139.0,2.6670561685801166,0.16470524074166198
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.18,0,16870613.0,2.8800850330690415,0.17316847714423445
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.19,0,15877804.0,3.060171293209061,0.18086729702708337
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.2,0,14368246.0,3.3816792947448144,0.1955783631086916
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.21,0,13484629.0,3.6032730303518177,0.20318447742930898
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.22,0,12636348.0,3.845161592574057,0.21061639215685443
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.23,0,11064369.0,4.3914659751495995,0.22630185371243386
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.24,0,10622704.0,4.574051955133081,0.23134491717021408
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.25,0,9513244.0,5.107490147419744,0.2449011129260615
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.26,0,8796679.0,5.523539053772452,0.25413606075389983
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.27,0,7808583.0,6.22248620524364,0.26802239098374303
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.28,0,7672633.0,6.332741315790812,0.27093381148633155
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.29,0,7060864.0,6.8814241429943985,0.27975089939460557
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.3,0,6203868.0,7.832017057745265,0.29422648075316343
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.31,0,5680437.0,8.553708103795536,0.30343686588458346
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.32,0,5149882.0,9.43493462568657,0.31423829011720134
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.33,0,4858813.0,10.000137893761295,0.3208345772517873
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.34,0,4403420.0,11.034332405266815,0.33062004978356657
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.35,0,3953236.0,12.290892828052765,0.3420382145724303
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.36,0,3579469.0,13.574303898148022,0.3515274900750706
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.37,0,3161972.0,15.366612987085274,0.3653996948198116
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.38,0,2990529.0,16.247560214263096,0.3701844608654868
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.39,0,2792541.0,17.39949386598084,0.377519997364426
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.4,0,2339862.0,20.765669086467494,0.39563192652000717
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.41,0,2192008.0,22.166342458604166,0.4012654281445342
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.42,0,2147348.0,22.627352436586897,0.4039414085130173
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.43,0,1778189.0,27.324879413830587,0.4229409327794768
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.44,0,1641931.0,29.592473739761292,0.4317633415214043
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.45,0,1536758.0,31.617730312775336,0.4371438512325022
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.46,0,1317741.0,36.872799738340085,0.45383832963449955
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.47,0,1221239.0,39.78647914126555,0.46038798442279083
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.48,0,1198112.0,40.55447236986192,0.46272459236426516
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.49,0,963101.0,50.4503681337679,0.4839213295248306
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.5,0,943238.0,51.512767721402234,0.4864638994596326
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.55,0,590770.0,82.24655957479222,0.5350853399292073
+"R (no algebra), TTN column-EOF",Tree tensor networks,baseline,uniform,0.6,0,322574.0,150.62838294468867,0.5947192671346825

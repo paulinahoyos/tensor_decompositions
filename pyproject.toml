@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "staralg"
+version = "0.7.0"
+description = "Singular value decompositions and SVD-based tensor decompositions over finite-dimensional *-algebras"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Paulina Hoyos" }, { name = "Joe Kileel" }]
+license = { text = "MIT" }
+dependencies = [
+    "numpy>=1.26",
+    "scipy>=1.11",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+data = ["xarray", "zarr", "gcsfs", "fsspec"]
+plot = ["matplotlib"]
+all = ["staralg[dev,data,plot]"]
+
+[tool.setuptools.packages.find]
+include = ["staralg*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

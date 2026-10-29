@@ -1,0 +1,333 @@
+method,panel,kind,truncation,param,rep,n_params,compression_ratio,rel_error
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.005,0,49460897.0,0.9823679501809278,0.004926809470845889
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.0075,0,47913837.0,1.0140870162412583,0.00736945788548122
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.01,0,46988610.0,1.0340548486111847,0.009772527637842261
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.02,0,44235847.0,1.0984032926960796,0.01897562053782771
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.03,0,41618728.0,1.1674744120002898,0.027871511424647888
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.04,0,39095574.0,1.2428209904272027,0.03658611140957293
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.05,0,36711574.0,1.3235281058774544,0.045091971995646705
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.06,0,34477960.0,1.4092713141960835,0.053538309135405374
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.07,0,32414532.0,1.4989819998018172,0.06192655473180861
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.08,0,30516006.0,1.5922398232586532,0.07032468630935172
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.09,0,28758233.0,1.68956138577777,0.07875835138599759
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.1,0,27137045.0,1.7904970861786904,0.08705129930372868
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.11,0,25638570.0,1.8951446980077282,0.09516165383090282
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.12,0,24242721.0,2.0042634653098554,0.10306161285498996
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.13,0,22929968.0,2.1190086266147428,0.11086545662183214
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.14,0,21708499.0,2.2382385811197727,0.11852928575859784
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.15,0,20554852.0,2.3638603673721414,0.12608129479698754
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.16,0,19458055.0,2.4971046695057653,0.1335789862530027
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.17,0,18426698.0,2.6368696116906025,0.140836476436275
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.18,0,17422163.0,2.7889074393345994,0.14787555637466576
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.19,0,16483317.0,2.9477562070789514,0.1549034118110851
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.2,0,15596065.0,3.1154525195938847,0.16181679004311056
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.21,0,14764347.0,3.2909548928916394,0.16870948108877373
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.22,0,13948237.0,3.4835083458934633,0.17519459642319804
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.23,0,13194929.0,3.6823843462893966,0.18190650076749385
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.24,0,12467327.0,3.8972908948325493,0.18851296852926713
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.25,0,11810208.0,4.114135839097838,0.1951081845842089
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.26,0,11192558.0,4.341170266886265,0.2017538299416386
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.27,0,10620932.0,4.574815091556937,0.2083590384492755
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.28,0,10072611.0,4.82385351722607,0.2149049410780991
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.29,0,9546407.0,5.089747378254457,0.2215748648955281
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.3,0,9073100.0,5.355258952287532,0.22809392478309198
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.31,0,8614590.0,5.6402916447561635,0.23476031756187776
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.32,0,8176942.0,5.942172513881106,0.24128735811409754
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.33,0,7772615.0,6.251280939555092,0.2479182880120372
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.34,0,7377809.0,6.585803454657067,0.2544630703744908
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.35,0,7023289.0,6.91824015785197,0.2611869258199406
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.36,0,6680177.0,7.27357972700424,0.26764713725181083
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.37,0,6344019.0,7.658993455095263,0.27425629535710566
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.38,0,6021937.0,8.068633066071598,0.2806056463200444
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.39,0,5711499.0,8.507188743270374,0.28706893219526547
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.4,0,5423137.0,8.959537625547723,0.2934216980387164
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.41,0,5164160.0,9.408848680133845,0.29976780216748444
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.42,0,4902776.0,9.91046704968777,0.30627942516702383
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.43,0,4650405.0,10.44829428834693,0.3124638306020903
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.44,0,4408706.0,11.02110233705763,0.31887004788872014
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.45,0,4188786.0,11.599733192385575,0.32514520977259986
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.46,0,3984314.0,12.195022781838981,0.3314146631721876
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.47,0,3788870.0,12.82408739281105,0.3374193482542765
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.48,0,3574625.0,13.592698534811344,0.3435573877157686
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.49,0,3409171.0,14.25237983075651,0.3499108995329297
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.5,0,3223631.0,15.072692873346856,0.35582095061094443
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.55,0,2509376.0,19.362901374684384,0.3865654514669965
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.6,0,1984914.0,24.47904543975205,0.4183757565572001
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.65,0,1557261.0,31.201449211147008,0.44896390724356416
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.7,0,1242980.0,39.0905726560363,0.4805313760613765
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.75,0,983806.0,49.38859897174849,0.5136028871986696
+"R[Z_64] (x) DCT on lon, lat, HOSVD",Format comparison,ours,adaptive,0.8,0,787244.0,61.72012743190167,0.5457426245204602
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.005,0,49092918.0,0.9897313498456132,0.004986824690552015
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.0075,0,47402647.0,1.0250229275171068,0.007476487137079534
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.01,0,46299349.0,1.0494488810199039,0.00999679875999214
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.02,0,42723051.0,1.137297053059249,0.019976994743454712
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.03,0,39190425.0,1.239813041068067,0.029990024685838102
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.04,0,35654488.0,1.3627681317426295,0.039991925674631425
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.05,0,32334442.0,1.5026948663595308,0.049977072598935184
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.06,0,29378204.0,1.6539064130673202,0.05998790063785814
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.07,0,26714937.0,1.8187877440998643,0.06997895588467933
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.08,0,24336196.0,1.9965651164216462,0.07997663374213908
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.09,0,22203011.0,2.188387872257506,0.08996778067717727
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.1,0,20303237.0,2.3931553377424497,0.09998918078031138
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.11,0,18562387.0,2.6175943858944435,0.10998395024057925
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.12,0,17008427.0,2.8567485987975254,0.11998342229308934
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.13,0,15594404.0,3.1157843544389383,0.1299657165043843
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.14,0,14305691.0,3.396466483163938,0.1399912685767412
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.15,0,13150133.0,3.6949284087088703,0.14998401819906984
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.16,0,12074857.0,4.023964838672623,0.15997015657939195
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.17,0,11082817.0,4.384156122040092,0.16998685366322722
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.18,0,10189775.0,4.768387918280825,0.17997600058724508
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.19,0,9367564.0,5.186919459530781,0.18996480115162342
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.2,0,8608599.0,5.644216904516054,0.19998784480583626
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.21,0,7919040.0,6.135693215339233,0.2099536959363604
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.22,0,7291936.0,6.663360731635604,0.2199874626627266
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.23,0,6712143.0,7.238939933192722,0.22997216214942626
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.24,0,6183131.0,7.858284095873111,0.23995231448288862
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.25,0,5692978.0,8.534865232221168,0.24995379592089498
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.26,0,5243232.0,9.266955953884931,0.2599310696502135
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.27,0,4830480.0,10.058793329027344,0.26996895353515277
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.28,0,4452197.0,10.913443407827641,0.27995548444315116
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.29,0,4101055.0,11.847878167934836,0.2899136295947011
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.3,0,3782695.0,12.845021869328614,0.2999066194431812
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.31,0,3483585.0,13.94793007777907,0.30996974102361835
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.32,0,3211036.0,15.131814155929737,0.3199581046278771
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.33,0,2961142.0,16.40880444098932,0.3299015595457806
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.34,0,2728089.0,17.810562631937593,0.3399561324092333
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.35,0,2514538.0,19.32315200645208,0.34995391197256726
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.36,0,2319996.0,20.943484385317905,0.3599201127675925
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.37,0,2139876.0,22.70636242473863,0.3699048972687064
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.38,0,1976756.0,24.580069568525403,0.37993250260266503
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.39,0,1827644.0,26.58548382507753,0.38983204433727764
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.4,0,1692572.0,28.70708011239699,0.3998598139225669
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.41,0,1559565.0,31.155354217361893,0.4099415542975541
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.42,0,1442026.0,33.69481548876372,0.41991423522033366
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.43,0,1337030.0,36.34084500721749,0.4298919232328606
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.44,0,1236608.0,39.29199875789256,0.43989427044860163
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.45,0,1145903.0,42.40219285576528,0.44981721146926096
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.46,0,1058507.0,45.9031447123165,0.45990907580983875
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.47,0,981043.0,49.52769654337272,0.469936940557227
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.48,0,908251.0,53.49710597621142,0.4798197575240647
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.49,0,840785.0,57.78980357641966,0.48984325547830915
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.5,0,779487.0,62.33433014277339,0.49979225638831654
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.55,0,537880.0,90.33390347289358,0.5497213002010786
+"R[Z_64] (x) DCT on lon, lat, ST-HOSVD",Format comparison,ours,adaptive,0.6,0,371860.0,130.66422847308127,0.5995263782809498
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.005,0,48557504.0,1.000644514182607,0.004986218529213419
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.0075,0,47045950.0,1.0327945338546676,0.00749699580161403
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.01,0,46013039.0,1.0559789367531234,0.009998628981811343
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.02,0,42156787.0,1.152573605763646,0.019996799696660548
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.03,0,38447853.0,1.2637584730674039,0.029988729255997652
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.04,0,34950681.0,1.3902103938976182,0.03999036768386272
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.05,0,31712682.0,1.5321567567195988,0.049989302286696236
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.06,0,28756083.0,1.6896877088579831,0.059993663353887255
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.07,0,26083638.0,1.862807634425842,0.06998995521520679
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.08,0,23680254.0,2.0518698828146014,0.07999748779804342
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.09,0,21516509.0,2.2582101957152996,0.08999163244599143
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.1,0,19586692.0,2.4807047560660065,0.09998992743869489
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.11,0,17851134.0,2.7218887046615636,0.1099957155714477
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.12,0,16292271.0,2.9823221084402536,0.1199909882936638
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.13,0,14901038.0,3.2607661291783834,0.12998700666292556
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.14,0,13638087.0,3.562728409050331,0.1399907794846981
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.15,0,12497162.0,3.8879867285068404,0.14998656356690473
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.16,0,11461873.0,4.239167542686959,0.159987638920261
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.17,0,10514404.0,4.621165403193562,0.1699802825518667
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.18,0,9655857.0,5.032054637925976,0.17999517919867075
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.19,0,8865020.0,5.480957741776105,0.18998927607480864
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.2,0,8145129.0,5.965381272660015,0.1999877762823214
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.21,0,7485759.0,6.49083145743805,0.2099957222691699
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.22,0,6880127.0,7.062195218198734,0.21998754736102283
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.23,0,6320339.0,7.6876889040287235,0.22998262264941333
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.24,0,5809001.0,8.364398628955305,0.23997174733645274
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.25,0,5339416.0,9.100021425564144,0.24999701147597367
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.26,0,4910152.0,9.895579607311545,0.2599747101374858
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.27,0,4521232.0,10.746805295547762,0.2699789058188526
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.28,0,4159707.0,11.68082271179196,0.27997439515431494
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.29,0,3832900.0,12.676772156852513,0.289980178596092
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.3,0,3530178.0,13.763838537320215,0.29997312100528617
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.31,0,3255235.0,14.926357083282774,0.3099668637174723
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.32,0,3000732.0,16.19231574162571,0.31997022983235
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.33,0,2768963.0,17.54765231604756,0.3299503736554485
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.34,0,2556529.0,19.005769150281495,0.3399806383822736
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.35,0,2362091.0,20.5702489870204,0.34994527314391266
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.36,0,2182239.0,22.265572194429666,0.35998395880974093
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.37,0,2015873.0,24.103105701599258,0.3699610830513428
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.38,0,1862967.0,26.081406702319473,0.37997598298897384
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.39,0,1723276.0,28.1955995441241,0.38991335640021796
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.4,0,1593507.0,30.49173928950422,0.3999193885305501
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.41,0,1472446.0,32.99869740554153,0.4099565615398046
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.42,0,1360479.0,35.714479973597534,0.41994826458899337
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.43,0,1258537.0,38.607367125479826,0.4299450798149083
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.44,0,1163311.0,41.7676786345182,0.4399432780306185
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.45,0,1077841.0,45.07974738389058,0.4499067712082934
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.46,0,999057.0,48.634662486724984,0.45991696496791495
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.47,0,924701.0,52.545417383565066,0.4699353472771158
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.48,0,857137.0,56.68732069669143,0.47994311869930495
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.49,0,793238.0,61.25374729904518,0.4899664612204764
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.5,0,737124.0,65.91672500149228,0.4998593535041941
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.55,0,505793.0,96.06459559543133,0.549813839064273
+"R[Z_64] (x) DCT on lon, lat, TT",Format comparison,ours,adaptive,0.6,0,349102.0,139.18224473076637,0.5997707784276183
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.02,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.03,0,48727339.0,0.9971568527474894,3.4128596320796634e-15
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.04,0,48593854.0,0.9998959950778961,0.01563427348991871
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.05,0,47705265.0,1.0185207020650655,0.02861531344115398
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.06,0,46950161.0,1.034901669453274,0.03432172886766148
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.07,0,46820836.0,1.0377601971908403,0.037761910811822404
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.08,0,45813322.0,1.060582334544524,0.04788873016289163
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.09,0,44939293.0,1.0812097110651029,0.05407188328517941
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.1,0,44069424.0,1.102551283629212,0.05978275680897505
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.11,0,38540105.0,1.260733461935301,0.09342453817028722
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.12,0,37665111.0,1.2900214206192038,0.09816191806967572
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.13,0,36797557.0,1.3204354843447894,0.10278081731358876
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.14,0,36040108.0,1.3481868589295016,0.10602256294699897
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.15,0,35084769.0,1.3848972470076688,0.11168350950542245
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.16,0,29817546.0,1.6295371859240193,0.13592298474925607
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.17,0,29077552.0,1.6710072429756122,0.13953620078425455
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.18,0,28344158.0,1.7142439016886655,0.1432370508892543
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.19,0,26622512.0,1.8251020038980543,0.15541721495091496
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.2,0,25927893.0,1.8739972430463208,0.15891610872577516
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.21,0,22403737.0,2.168781038627618,0.1752721954876445
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.22,0,21722528.0,2.2367930657057964,0.17932045687912948
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.23,0,20328387.0,2.390194558968205,0.18972581793549553
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.24,0,19747993.0,2.460442435846519,0.19296338997896065
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.25,0,19114034.0,2.5420484236870147,0.19711261584806103
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.26,0,17832443.0,2.7247416408396763,0.2072664829569724
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.27,0,15476506.0,3.1395199924324007,0.2210609427309202
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.28,0,14949252.0,3.2502495777046234,0.22490099277179026
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.29,0,14261920.0,3.406890516844857,0.23236869191085524
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.3,0,13764681.0,3.529961936640595,0.2362800881940234
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.31,0,13274462.0,3.660321600980891,0.24013909103640357
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.32,0,12262746.0,3.9623099100315704,0.25048960678955373
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.33,0,10506574.0,4.6246093160339425,0.26591656404814995
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.34,0,10400479.0,4.671784828371847,0.2675307896023055
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.35,0,9968955.0,4.874011368292865,0.27208900869206576
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.36,0,9199924.0,5.28143493359293,0.2814521392144916
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.37,0,8800000.0,5.521454545454546,0.2861986530995875
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.38,0,8706745.0,5.580592977053997,0.28776448650204406
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.39,0,7975109.0,6.09255622713119,0.2980030394419222
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.4,0,6915196.0,7.02638074177507,0.31190351768441055
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.41,0,6597307.0,7.364944514481439,0.3165898919134816
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.42,0,6039546.0,8.04510802633178,0.3262499805936244
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.43,0,5948766.0,8.167878850840662,0.32816638793617336
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.44,0,5681187.0,8.552578888883609,0.3328292149098505
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.45,0,5343555.0,9.09297274941495,0.34063904385760774
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.46,0,5095436.0,9.535749246973173,0.3450608850321707
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.47,0,5014596.0,9.689474486080234,0.3469791006246819
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.48,0,4773827.0,10.178165233050967,0.35209926459875884
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.49,0,3849972.0,12.620559318353484,0.37272305661041005
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.5,0,3659213.0,13.278483652085844,0.3772743083640118
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.55,0,2966683.0,16.378157019135514,0.3994749704533733
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.6,0,2096134.0,23.180197449208876,0.4348016997445784
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.65,0,1668534.0,29.120653220132162,0.4589133701144109
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.7,0,1116790.0,43.5075528971427,0.4995329706118827
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.75,0,918344.0,52.90914951260094,0.5207208476883344
+"R (no algebra), HOSVD",Format comparison,baseline,uniform,0.8,0,749863.0,64.79690290092991,0.5423422522373945
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.005,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.0075,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.01,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.02,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.03,0,48727339.0,0.9971568527474894,3.259421986568896e-15
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.04,0,48593854.0,0.9998959950778961,0.01563427348991871
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.05,0,47705265.0,1.0185207020650655,0.02861509684307926
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.06,0,46950161.0,1.034901669453274,0.03432122085362872
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.07,0,46820836.0,1.0377601971908403,0.03776128390105289
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.08,0,45813322.0,1.060582334544524,0.047887632087357246
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.09,0,44939293.0,1.0812097110651029,0.05407042922797011
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.1,0,43946339.0,1.1056393116159233,0.06190630953199019
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.11,0,38540105.0,1.260733461935301,0.09341026854934933
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.12,0,37665111.0,1.2900214206192038,0.0981428904702143
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.13,0,36797557.0,1.3204354843447894,0.10275918332550046
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.14,0,35937443.0,1.352038318363385,0.10722789501211366
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.15,0,32079561.0,1.51463419340433,0.12303532334659414
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.16,0,29645216.0,1.6390098152767718,0.13772034712731474
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.17,0,28908522.0,1.6807777305252756,0.14129797340457448
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.18,0,28095563.0,1.7294118647844858,0.14587432685395896
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.19,0,26386952.0,1.8413949439859518,0.15785540002133486
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.2,0,23232535.0,2.091411892847681,0.17332728144892737
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.21,0,22068412.0,2.2017352222715436,0.17891392488438831
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.22,0,20597556.0,2.3589594804354457,0.18988737372164083
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.23,0,19894632.0,2.442307050464668,0.19454444919374433
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.24,0,19263473.0,2.5223281388563734,0.19844961502359018
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.25,0,16038934.0,3.029428264995666,0.2196602577721692
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.26,0,15509250.0,3.1328916614278577,0.22325742186445086
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.27,0,14937891.0,3.252721552192341,0.22774303026273907
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.28,0,13801970.0,3.520424982810425,0.23820519115568625
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.29,0,13617990.0,3.567986171233787,0.24076309643494137
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.3,0,11570043.0,4.199534954191614,0.2585602357445326
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.31,0,10614957.0,4.577390186319172,0.26875600674613354
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.32,0,10149068.0,4.787513493849879,0.27361449223129375
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.33,0,9275582.0,5.238355932813704,0.28423459826687864
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.34,0,9139722.0,5.316222966081463,0.2866180039276491
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.35,0,8716393.0,5.574415930993474,0.29165053772164745
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.36,0,6897044.0,7.044873136955484,0.31581419542507255
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.37,0,6560275.0,7.406518781605954,0.3206983076256175
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.38,0,6455775.0,7.526408525699858,0.3230500167077691
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.39,0,5819204.0,8.349733056273676,0.33429884702775564
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.4,0,5722264.0,8.49118460805024,0.33669627543804154
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.41,0,5423155.0,8.959507887936082,0.3418944119216745
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.42,0,4102331.0,11.84419297223944,0.36882402363940753
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.43,0,4027791.0,12.063386605710177,0.3712581758815107
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.44,0,3783617.0,12.841891766529223,0.37724052760602916
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.45,0,3521360.0,13.798305200263535,0.3856674866439943
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.46,0,3298906.0,14.728761595510754,0.39152650326813665
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.47,0,3249211.0,14.954030378451877,0.39354765061743185
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.48,0,2857155.0,17.00600772446717,0.4070591133758227
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.49,0,2278347.0,21.326338788604193,0.42937818123757243
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.5,0,2132058.0,22.7896239220509,0.4347741933524562
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.55,0,1512966.0,32.11493186231548,0.46955332494131985
+"R (no algebra), ST-HOSVD",Format comparison,baseline,uniform,0.6,0,927622.0,52.37995649089823,0.518665083105242
+"R (no algebra), TT",Format comparison,baseline,uniform,0.005,0,54211633.0,0.8962799552634764,0.0033294701861759724
+"R (no algebra), TT",Format comparison,baseline,uniform,0.0075,0,53512297.0,0.9079931665052614,0.005149018391742603
+"R (no algebra), TT",Format comparison,baseline,uniform,0.01,0,52864977.0,0.9191113428461343,0.006966033387572451
+"R (no algebra), TT",Format comparison,baseline,uniform,0.02,0,50497495.0,0.9622021844845967,0.01407570942046083
+"R (no algebra), TT",Format comparison,baseline,uniform,0.03,0,48295396.0,1.0060751960704495,0.02112480024599517
+"R (no algebra), TT",Format comparison,baseline,uniform,0.04,0,45558342.0,1.0665181801392158,0.03697401879371187
+"R (no algebra), TT",Format comparison,baseline,uniform,0.05,0,43689597.0,1.1121366031368978,0.04529958578308291
+"R (no algebra), TT",Format comparison,baseline,uniform,0.06,0,41379848.0,1.1742140763784343,0.05655196089165825
+"R (no algebra), TT",Format comparison,baseline,uniform,0.07,0,39232452.0,1.2384849154980169,0.0685318648704548
+"R (no algebra), TT",Format comparison,baseline,uniform,0.08,0,37231275.0,1.30505334560796,0.07782424421261672
+"R (no algebra), TT",Format comparison,baseline,uniform,0.09,0,35355201.0,1.3743041653192694,0.08818710174037583
+"R (no algebra), TT",Format comparison,baseline,uniform,0.1,0,33604919.0,1.4458835624629836,0.09772771724945992
+"R (no algebra), TT",Format comparison,baseline,uniform,0.11,0,31908693.0,1.5227449146851613,0.10798710749311927
+"R (no algebra), TT",Format comparison,baseline,uniform,0.12,0,29912900.0,1.624342674899458,0.11947946844071473
+"R (no algebra), TT",Format comparison,baseline,uniform,0.13,0,28386897.0,1.7116629549189544,0.12870033228447111
+"R (no algebra), TT",Format comparison,baseline,uniform,0.14,0,26903670.0,1.8060286942264754,0.13775004464212795
+"R (no algebra), TT",Format comparison,baseline,uniform,0.15,0,25150724.0,1.9319046242963025,0.1490386965894868
+"R (no algebra), TT",Format comparison,baseline,uniform,0.16,0,23795916.0,2.0418966010806225,0.1591545819799494
+"R (no algebra), TT",Format comparison,baseline,uniform,0.17,0,22522036.0,2.157389323061201,0.1681436857553529
+"R (no algebra), TT",Format comparison,baseline,uniform,0.18,0,20986005.0,2.315295359931535,0.1794251581867997
+"R (no algebra), TT",Format comparison,baseline,uniform,0.19,0,19820172.0,2.4514822575707216,0.18877902272495523
+"R (no algebra), TT",Format comparison,baseline,uniform,0.2,0,18697522.0,2.598675910101884,0.1985371552535218
+"R (no algebra), TT",Format comparison,baseline,uniform,0.21,0,17580174.0,2.7638406764347154,0.20837195054588342
+"R (no algebra), TT",Format comparison,baseline,uniform,0.22,0,16542982.0,2.9371246369004087,0.21788610372636635
+"R (no algebra), TT",Format comparison,baseline,uniform,0.23,0,15255659.0,3.184968935134169,0.22978537208613015
+"R (no algebra), TT",Format comparison,baseline,uniform,0.24,0,14291194.0,3.3999118618080475,0.2397602001898413
+"R (no algebra), TT",Format comparison,baseline,uniform,0.25,0,13373351.0,3.6332554196775364,0.24953619839723648
+"R (no algebra), TT",Format comparison,baseline,uniform,0.26,0,12485478.0,3.8916251344161594,0.25933580192192507
+"R (no algebra), TT",Format comparison,baseline,uniform,0.27,0,11626543.0,4.179127019957695,0.26965170911586084
+"R (no algebra), TT",Format comparison,baseline,uniform,0.28,0,11060855.0,4.392861130536473,0.2773574561547518
+"R (no algebra), TT",Format comparison,baseline,uniform,0.29,0,10272228.0,4.730113077708166,0.28717120072857266
+"R (no algebra), TT",Format comparison,baseline,uniform,0.3,0,9520880.0,5.1033938039340905,0.2975176173435456
+"R (no algebra), TT",Format comparison,baseline,uniform,0.31,0,8810844.0,5.514658981591321,0.30798328608940734
+"R (no algebra), TT",Format comparison,baseline,uniform,0.32,0,8140698.0,5.968628242934451,0.3184402320663921
+"R (no algebra), TT",Format comparison,baseline,uniform,0.33,0,7721602.0,6.292580218457258,0.3262214358514832
+"R (no algebra), TT",Format comparison,baseline,uniform,0.34,0,7095083.0,6.848235602035945,0.3372143679976337
+"R (no algebra), TT",Format comparison,baseline,uniform,0.35,0,6524981.0,7.4465810705042665,0.3481047601443217
+"R (no algebra), TT",Format comparison,baseline,uniform,0.36,0,5964886.0,8.145805301224533,0.3589918043746123
+"R (no algebra), TT",Format comparison,baseline,uniform,0.37,0,5670444.0,8.568782268196282,0.36619630890796284
+"R (no algebra), TT",Format comparison,baseline,uniform,0.38,0,5172068.0,9.394462717814228,0.3777180705112711
+"R (no algebra), TT",Format comparison,baseline,uniform,0.39,0,4904642.0,9.906696553999252,0.385303680138611
+"R (no algebra), TT",Format comparison,baseline,uniform,0.4,0,4461047.0,10.891792890772054,0.3967537527593459
+"R (no algebra), TT",Format comparison,baseline,uniform,0.41,0,4041020.0,12.023894957213773,0.4091698594056092
+"R (no algebra), TT",Format comparison,baseline,uniform,0.42,0,3837046.0,12.663074667335236,0.41628947171720837
+"R (no algebra), TT",Format comparison,baseline,uniform,0.43,0,3459597.0,14.04464161577201,0.428522679349539
+"R (no algebra), TT",Format comparison,baseline,uniform,0.44,0,3289610.0,14.770383115323702,0.4357832309480841
+"R (no algebra), TT",Format comparison,baseline,uniform,0.45,0,2976311.0,16.325175695685026,0.44802714920393444
+"R (no algebra), TT",Format comparison,baseline,uniform,0.46,0,2811411.0,17.282709642951527,0.4560828055663098
+"R (no algebra), TT",Format comparison,baseline,uniform,0.47,0,2520361.0,19.278508118479852,0.4682839817799056
+"R (no algebra), TT",Format comparison,baseline,uniform,0.48,0,2395935.0,20.279682044796708,0.47621570690414544
+"R (no algebra), TT",Format comparison,baseline,uniform,0.49,0,2138538.0,22.720568912032427,0.488912122087069
+"R (no algebra), TT",Format comparison,baseline,uniform,0.5,0,2041085.0,23.805378021983405,0.4957782584617337
+"R (no algebra), TT",Format comparison,baseline,uniform,0.55,0,1370004.0,35.4661738213903,0.5453805504456938
+"R (no algebra), TT",Format comparison,baseline,uniform,0.6,0,903566.0,53.77448907993439,0.5973090967687211
